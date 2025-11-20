@@ -64,7 +64,24 @@ u₂ = [ √6/6 , -√6/6 , √6/3 ]
 
 ---
 
+## 📸 **Capturas de pantalla**
+
+<img src="PROJECTO CALCULO FINAL FINAL/images/CAP1.png" width="800">
+
+<img src="PROJECTO CALCULO FINAL FINAL/images/CAP2.png" width="800">
+
+<img src="PROJECTO CALCULO FINAL FINAL/images/CAP3.png" width="800">
+
+---
+
 ## 🚀 Cómo ejecutar
+
+```bash
+git clone https://github.com/TU_USUARIO/TU_REPO.git
+cd TU_REPO
+pip install -r requirements.txt
+python main.py
+
 
 ```bash
 pip install numpy sympy matplotlib
@@ -77,14 +94,14 @@ Resolución simbólica de superficies paramétricas
 
 Integrales de línea y flujo sobre superficies cargadas desde archivos STL
 
-Exportar resultados en PDF
+
 
 Implementar modo oscuro completo
 
 Versión con API y ejecutable standalone
 
 👨‍💻 Autor
-Desarrollado por Juan Jáuregui
+Desarrollado por Juan David Jáuregui Zarate
 Estudiante de Ingeniería de Software — FESC
 2025
 
